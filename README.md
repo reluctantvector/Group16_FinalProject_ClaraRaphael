@@ -1,10 +1,12 @@
 # Group 16: Clara Raphael Reception, 1850–55
 
-Group members: Philip M-L, Rikke Kjeldsen Otkjær and Erik Bæk Hansen.
+Group members: Philip M-L*, Rikke Kjeldsen Otkjær and Erik Bæk Hansen.
 
 This repository contains the digital product for Group 16’s final project in Digital Archives and Methods.
 
 The project examines the early Danish newspaper reception of Mathilde Fibiger’s *Clara Raphael* through a curated Mediestream corpus. The analysis combines corpus overview, manual stance coding, keyword analysis and Sentida sentiment scores.
+
+*User is registered under Name and address protection.
 
 ## Research question
 
