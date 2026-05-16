@@ -1,0 +1,5 @@
+manual_stance,n,percentage,label
+critical,11,22,22%
+ambivalent,25,50,50%
+supportive,4,8,8%
+unclear,10,20,20%

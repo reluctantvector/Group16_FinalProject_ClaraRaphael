@@ -1,0 +1,9 @@
+keyword,pattern,count,per_1000_words
+Qvinde/Kvinde,\b(qvinde\w*|kvinde\w*)\b,65,6.429913938074983
+Emancipation,\bemancipation\w*\b,19,1.8795133049757642
+Frihed,\bfrihed\w*\b,3,0.2967652586803838
+Ægteskab,\bægteskab\w*\b,6,0.5935305173607676
+Christ/Krist/Gud/Religion,\b(christ\w*|krist\w*|gud\w*|religion\w*)\b,23,2.275200316549609
+Moder/Hustru,\b(moder\w*|hustru\w*)\b,5,0.4946087644673064
+Kritik/Critique,\b(kritik\w*|critique\w*)\b,12,1.1870610347215351
+Idee/Idé,\b(idee\w*|idé\w*)\b,26,2.5719655752299935
