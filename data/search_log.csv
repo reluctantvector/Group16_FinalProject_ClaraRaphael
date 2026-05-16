@@ -1,0 +1,5 @@
+query,date_range,hits_total,notes
+"""Clara Raphael"" AND (frihed OR emancipation) iso_date:[1850-01-01 TO 1855-12-31]",1850–1855,25,Tematisk søgning efter Clara Raphael + frihed/emancipation
+"""Clara Raphael"" AND (anmeldelse OR recension) iso_date:[1850-01-01 TO 1855-12-31]",1850–1855,11,Tematisk søgning efter anmeldelses-/recensionsstof
+"""Clara Raphael"" AND (kritik OR critique) iso_date:[1850-01-01 TO 1855-12-31]",1850–1855,9,"Tematisk søgning efter kritik. Formen ""critique"" kan forekomme i 1800-t sprog."
+"""Clara Raphael"" iso_date:[1850-01-01 TO 1855-12-31]",1850–1855,456,Bred kontrolsøgning
