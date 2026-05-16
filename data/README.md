@@ -5,7 +5,7 @@ This folder contains the data used in the project.
 ## Main files
 
 - `corpus_metadata.csv`: main dataset for the final project. It contains manually curated metadata for the selected Mediestream corpus, relevance coding, manual stance coding, Sentida scores and analysis-related fields.
-- `corpus_metadata - search_log.csv`: brief documentation of search queries and selection work.
+- `search_log.csv`: brief documentation of search queries and selection work.
 - `keyword_frequency_table.csv`: derived table with keyword frequencies used in the keyword analysis.
 - `manual_stance_counts.csv`: derived table summarising the manual stance coding.
 - `semantic_fields_by_article_stance_table.csv`: derived table used to compare semantic fields across article stance categories.
