@@ -1,6 +1,6 @@
 # Group 16: Clara Raphael Reception, 1850–55
 
-Group members: Philip*, Rikke Kjeldsen Otkjær and Erik Bæk Hansen.
+Group members: Philip [last name]*, Rikke Kjeldsen Otkjær and Erik Bæk Hansen.
 
 This repository contains the digital product for Group 16’s final project in Digital Archives and Methods.
 
